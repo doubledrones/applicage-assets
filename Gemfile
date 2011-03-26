@@ -1,6 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.5'
+gem 'thor', '0.14.5'
 
 group :development do
   gem 'heroku', '1.6.3'
